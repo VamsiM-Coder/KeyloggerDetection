@@ -1,8 +1,7 @@
 Advanced-KeyLogger-For-Insider-Threat-Detection
 
     This project presents an advanced, encrypted keylogger system integrated with multi-layered threat detection mechanisms to monitor and analyze user activity for potential security threats.
-
-Disclaimer :
+🔒 Disclaimer :
     This software is intended solely for educational and ethical research purposes. The author does not endorse or condone any use of this project for malicious, unauthorized, or illegal activities, including but not limited to spying, data theft, unauthorized surveillance, or system compromise.
     By using this code, you agree that:
     
