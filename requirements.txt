@@ -1,0 +1,7 @@
+streamlit
+cryptography
+requests
+clipboard
+pynput
+pillow
+opencv-python
